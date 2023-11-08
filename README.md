@@ -6,9 +6,9 @@ Only part of the problems have solutions.
 
 ## Naming convension
 
-img id: just increase the cnt as primary key.
+img id: just increase the cnt as primary key, or use base64.
 
-file name: same as pdf name, or use base64
+file name: same as pdf name.
 
 ## Contribution
 
