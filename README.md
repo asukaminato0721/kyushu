@@ -1,3 +1,7 @@
+Being accepted to the University of Tokyo. This repository has been archived.
+
+---
+
 # Some solutions for kyushu entrance examination
 
 All by [wolfree alpha](https://wolfreealpha.gitlab.io/) + [Mathematica](https://www.wolfram.com/mathematica/).
